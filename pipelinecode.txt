@@ -7,11 +7,11 @@ pipeline {
     }
 
     environment {
-        TOMCAT_URL = 'http://51.21.158.152:9090/manager/text'
-        TOMCAT_USER = 'admin'
-        TOMCAT_PASS = 'admin'
+        TOMCAT_URL = 'http://52.20.38.148:9090/manager/text'
+        TOMCAT_USER = 'ranjit123'
+        TOMCAT_PASS = 'Ranjit@123'
 
-        MAIN_REPO = 'https://github.com/satyavathiborra/fullstack-s201.git'
+        MAIN_REPO = 'https://github.com/11ranjitreddy/FullStack_104.git'
 
         BACKEND_DIR = 'crud_back'
         FRONTEND_DIR = 'crud_front'
